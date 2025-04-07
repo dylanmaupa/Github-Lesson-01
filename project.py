@@ -1,4 +1,18 @@
 name = "Dylan"
 age = 25
 
-print(f"Hello, {name}! You are {age} years old.")
+height = 5.9
+weight = 160
+
+print(f"Name: {name}, Age: {age}, Height: {height}, Weight: {weight}")
+
+
+
+
+
+
+
+
+
+
+# This is a comment
